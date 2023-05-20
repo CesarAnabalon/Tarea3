@@ -1,3 +1,8 @@
-bueno en esta tarea se pidio que se creara un codigo para ordenar un grupo de tareas segun su prioridad ademas de crear un readme con el proposito de explicar los
+Bueno en esta tarea se pidio que se creara un codigo para ordenar un grupo de tareas segun su prioridad ademas de crear un readme con el proposito de explicar los
 los fallos qu este pueda tener, la funcion 3 no me funciono y si bien el codigo no es totalmente funcional es trabajo honesto en donde se escogio una linea de idea y se 
 siguio hasta el final 
+El codigo funciona a base de funciones en donde se presenta un main con poca informacion pero antes esto se dereiva a una funcion menu en donde se muestran las opciones 
+de utilidad del programa funciona de manera estetica al usuario, a continuacion se explicaran lo que hacen las funciones ya que era primera vez que subia un repositorio
+y no comente en el codigo espero esto sirva de guia
+Primeramente se crea un estruct con las variables en esti se ocupa un mapa, en la funcion crear tarea se espera que el usuario ingrese el nombre de la tarea y de la prioridad
+Posteriormente en la funcion se utiliza una lista para almacenar una serie de tareas presedentes y como por ultimo la funcion 4 presenta la eliminacion de la tarea
